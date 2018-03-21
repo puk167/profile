@@ -1,0 +1,116 @@
+body {
+  background-color: #e9e4f0;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: rgb(130,130,130);
+  line-height: 1.6em;
+  font-weight: 300;
+}
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  word-break: normal;
+}
+
+a {
+  text-decoration: none;
+}
+
+td
+{
+  padding:5px 10px 5px 10px;
+  word-break: break-all
+}
+
+/*td h3 {
+  text-align: center;
+}*/
+
+.avatar-lg{
+  border-radius: 50%;
+  height: 100px;
+  width:100px;
+}
+
+.card{
+  background-color: white;
+  text-align: center;
+  padding: 20px;
+  /*margin-left: 450px;
+  margin-right: 450px;
+  margin-top: 0px;*/
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.container{
+  width: 500px;
+  margin: 10px auto;
+}
+
+
+.red-btn {
+  background-color: #f44336; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5%
+  }
+
+.text-center {
+  text-align: center;
+}
+
+.display-inline{
+  display: inline-block;
+  padding: 20px;
+}
+
+.list-inline {
+  color: rgb(200,200,200);
+  padding-right: 40px;
+  font-size: 25px;
+}
+
+.fa {
+  color: rgb(200,200,200);
+  font-size: 40px;
+}
+
+.fa:hover{
+  color: blue;
+}
+
+.icon-text {
+  color: rgb(200,200,200);
+  font-size: 14px;
+}
+
+.icon-text:hover{
+  color: blue;
+}
+
+#movies{
+  /*font-weight: 300;*/
+  font-size: 15px;
+  line-height: 1.6em;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: justify;
+}
+
+#movies img {
+  width: 150px;
+}
+
+
+
+
+
+
+
+
